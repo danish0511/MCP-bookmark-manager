@@ -50,7 +50,7 @@ npm run build
 npm start
 ```
 
-## Project Structure (brief)
+## Project Structure
 
 ```
 prisma/          # Prisma schema & migrations
